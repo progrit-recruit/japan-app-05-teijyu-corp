@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "定住サポート for Business",
+    "slug": "teijyu-corp",
+    "version": "1.0.0",
+    "web": { "bundler": "metro" }
+  }
+}
